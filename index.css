@@ -111,3 +111,10 @@ button{
 .register p a:hover{
     text-decoration: underline;
 }
+footer{
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: #fff;
+}
